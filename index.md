@@ -1,7 +1,7 @@
 ---
 title1: Home
 layout1: home
-
+---
 
 title: Home1
 layout: home1
